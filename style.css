@@ -1,0 +1,183 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #000000;
+}
+body {
+	font-size: 16px;
+	background-image: url("bg2.jpg");
+
+}
+img {
+	max-width: 100%;
+}
+h1 {
+	font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	line-height: 30px;
+	color: #ffffff;
+	text-shadow: 1px 1px 1px #000000;
+}
+h3 {
+	text-shadow: 2px 2px 2px #fbfdfb;
+	color: #000000;
+}
+h4 {
+	color: white;
+	text-shadow: 1px 1px 1px #000000;
+}
+p {
+	text-align: right;
+}
+footer {
+	text-align: right;
+	color: white;
+	font-size: 14px;
+	margin-right: 5px;
+	text-shadow: 1px 1px 1px #000000;
+}
+
+
+
+.wrapper {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.header {
+		width: 100%;
+		margin-bottom: 10px;
+
+}
+.logo {
+	  color: white;
+		margin-top: 10px;
+		margin-left: 10px;
+		max-width: 300px;
+		max-height: 200px;
+		margin:0 auto;
+}
+.logo img {
+
+}
+.nav {
+		width: 100%;
+		padding-top: 10px;
+		padding-bottom: 10px;
+}
+li.button {
+	padding: 5px;
+	width: 200px;;
+	margin-right: 20px;
+	margin-left: 20px;
+	text-align: center;
+	font-family: arial;
+}
+li.button a {
+	padding: 5px;
+	background-color: black;
+	color:white;
+	text-decoration: none;
+}
+li.button a:hover {
+	background-color: #006899;
+}
+.buttonother {
+		padding: 5px;
+		background-color: #008f68;
+		color:white;
+		text-decoration: none;
+		width: 150px;
+		text-align: center;
+		margin:0 auto;
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+	.buttonother:hover {
+		background-color: #069999;
+}
+.featured {
+	text-align: center;
+	max-width: 100%;
+	background-image: url("banner.jpg");
+	margin-right: 23px;
+	margin-left: 23px;
+}
+.featuredpost {
+	margin:0 auto;
+	padding: 20px 0px 20px 0px;
+	width: 340px;
+}
+
+.post {
+	padding: 3px;
+	width: 287px;
+	margin: 10px 20px 10px 20px;
+	background-color: black;
+	color: white;
+	display: inline;
+	float: left;
+}
+.postabout {
+	padding: 3px;
+	width: 287px;
+	margin: 10px 20px 10px 40px;
+	background-color: black;
+	color: white;
+	display: inline;
+	float: left;
+}
+
+.post2 {
+	padding: 3px;
+	width: 600px;
+	margin: 10px 20px 10px 20px;
+	background-color: black;
+	color: white;
+	display: inline;
+	float: left;
+}
+.featuredentry {
+	text-align: left;
+	width: 500px;
+	display: inline;
+	float: left;
+}
+.featuredentry img {
+	max-width: 470px;
+	height: 470px;
+	padding-left: 5px;
+}
+.voidentry {
+	text-align: left;
+	width: 500px;
+	display: inline;
+	float: left;
+}
+.voidentry img {
+	max-width: 470px;
+	height: 430px;
+	padding-left: 5px;
+
+}
+.bio {
+	text-align: center;
+	margin-right: 40px;
+	margin-left: 40px;
+	max-width: 400px;
+}

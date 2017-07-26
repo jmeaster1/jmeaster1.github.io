@@ -123,7 +123,6 @@ li.button a:hover {
 	padding: 20px 0px 20px 0px;
 	width: 340px;
 }
-
 .post {
 	padding: 3px;
 	width: 287px;
@@ -136,13 +135,22 @@ li.button a:hover {
 .postabout {
 	padding: 3px;
 	width: 287px;
-	margin: 10px 20px 10px 40px;
+	margin: 10px 30px 10px 58px;
 	background-color: black;
 	color: white;
 	display: inline;
 	float: left;
 }
-
+.biopost {
+	padding: 3px;
+	width: 600px;
+	margin: 10px 20px 10px 20px;
+	background-color: black;
+	color: white;
+	display: inline;
+	float: left;
+	text-align: center;
+}
 .post2 {
 	padding: 3px;
 	width: 600px;
@@ -173,8 +181,46 @@ li.button a:hover {
 	max-width: 470px;
 	height: 430px;
 	padding-left: 5px;
-
 }
+.scannerentry {
+	text-align: left;
+	width: 500px;
+	display: inline;
+	float: left;
+}
+.scannerentry img {
+	max-width: 470px;
+	height: 510px;
+	padding-left: 5px;
+}
+.equalsentry {
+	text-align: left;
+	width: 500px;
+	display: inline;
+	float: left;
+}
+.equalsentry img {
+	max-width: 480px;
+	height: 340px;
+	padding-left: 5px;
+}
+.argsentry {
+	text-align: left;
+	width: 500px;
+	display: inline;
+	float: left;
+}
+.argssentry img {
+	max-width: 480px;
+	height: 320px;
+	padding-left: 5px;
+}
+.contactinfo {
+	margin:0 auto;
+	margin-top: 30px;
+	text-align: center;
+	font-size: 25px;
+	}
 .bio {
 	text-align: center;
 	margin-right: 40px;

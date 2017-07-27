@@ -1,0 +1,240 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #000000;
+}
+body {
+	font-size: 16px;
+	background-image: url("bg2.jpg");
+
+}
+img {
+	max-width: 100%;
+}
+h1 {
+	font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	line-height: 110%;
+	color: #ffffff;
+	text-shadow: 1px 1px 1px #000000;
+}
+h3 {
+	text-shadow: 2px 2px 2px #fbfdfb;
+	color: #000000;
+}
+h4 {
+	color: white;
+	text-shadow: 1px 1px 1px #000000;
+}
+p {
+	text-align: left;
+}
+footer {
+	text-align: left;
+	color: white;
+	font-size: 14px;
+	margin-right: 5px;
+	margin-top: 1%;
+	text-shadow: 1px 1px 1px #000000;
+}
+
+
+
+.wrapper {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.header {
+		width: 100%;
+		margin-bottom: 1%;
+
+}
+.logo {
+	  color: white;
+		margin-top: 1%;
+		margin-left: 1%;
+		max-width: 30%;
+		max-height: 20%;
+		margin:0 auto;
+}
+.logo img {
+
+}
+.nav {
+		width: 100%;
+		padding-top: 1%;
+		padding-bottom: 1%;
+}
+li.button {
+	padding: .5%;
+	width: 20%;
+	margin-right: 2%;
+	margin-left: 2%;
+	text-align: center;
+	font-family: arial;
+}
+li.button a {
+	padding: .5%;
+	background-color: black;
+	color:white;
+	text-decoration: none;
+}
+li.button a:hover {
+	background-color: #006899;
+}
+.buttonother {
+		padding: .5%;
+		background-color: #008f68;
+		color:white;
+		text-decoration: none;
+		width: 50%;
+		text-align: center;
+		margin:0 auto;
+		margin-top: 2%;
+		margin-bottom: 2%;
+	}
+	.buttonother:hover {
+		background-color: #069999;
+}
+.featured {
+	text-align: center;
+	max-width: 100%;
+	background-image: url("banner.jpg");
+	margin-right: 2.3%;
+	margin-left: 2.3%;
+}
+.featuredpost {
+	margin:0 auto;
+	padding: 2% 0px 2% 0px;
+	width: 34%;
+}
+.post {
+	padding: .3%;
+	width: 28.7%;
+	margin: 1% 2% 1% 2%;
+	background-color: black;
+	color: white;
+	display: inline;
+	float: right;
+}
+.archivepost {
+	padding: .5%;
+	width: 25%;
+	margin: 1% 3% 1% 4%;
+	background-color: black;
+	color: white;
+	display: inline;
+	float: left;
+}
+.postabout {
+	padding: .3%;
+	width: 28.7%;
+	margin: 1% 3% 1% 5.8%;
+	background-color: black;
+	color: white;
+	display: inline;
+	float: left;
+}
+.biopost {
+	padding: .3%;
+	width: 55%;
+	margin: 2% 4% 1% 1%;
+	background-color: black;
+	color: white;
+	display: inline;
+	float: left;
+	text-align: center;
+}
+.post2 {
+	padding: .3%;
+	width: 60%;
+	margin: 1% 2% 1% 2%;
+	background-color: black;
+	color: white;
+	display: inline;
+	float: left;
+}
+.featuredentry {
+	text-align: left;
+	width: 50%;
+	display: inline;
+	float: left;
+}
+.featuredentry img {
+	max-width: 100%;
+	height: 47%;
+	padding-left: .5%;
+}
+.voidentry {
+	text-align: left;
+	width: 50%;
+	height: 100%;
+	display: inline;
+	float: left;
+	margin-bottom: 15%
+}
+.voidentry img {
+	max-width: 100%;
+	padding-left: .5%;
+}
+.scannerentry {
+	text-align: left;
+	width: 50%;
+	display: inline;
+	float: left;
+}
+.scannerentry img {
+	max-width: 100%;
+	height: 125%;
+	padding-left: .5%;
+}
+.equalsentry {
+	text-align: left;
+	width: 50%;
+	display: inline;
+	float: left;
+}
+.equalsentry img {
+	max-width: 100%;
+	height: 120%;
+	padding-left: .5%;
+}
+.argsentry {
+	text-align: left;
+	width: 50%;
+	display: inline;
+	float: left;
+}
+.argssentry img {
+	max-width: 48%;
+	height: 32%;
+	padding-left: .5%;
+}
+.contactinfo {
+	margin:0 auto;
+	margin-top: 3%;
+	text-align: center;
+	font-size: 25px;
+	}
+.bio {
+	text-align: center;
+	margin-right: 4%;
+	margin-left: 4%;
+	max-width: 4%;
+}

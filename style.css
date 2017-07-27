@@ -63,7 +63,6 @@ footer {
 .header {
 		width: 100%;
 		margin-bottom: 1%;
-
 }
 .logo {
 	  color: white;
@@ -234,6 +233,7 @@ li.button a:hover {
 	}
 .bio {
 	text-align: center;
+<<<<<<< HEAD
 	margin-right: 4%;
 	margin-left: 4%;
 	max-width: 4%;
